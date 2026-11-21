@@ -8,10 +8,10 @@ all day, so the text gives it a scale of its own, coming to rest.
 import os
 
 TEXT = (
-    "The scale does not hurry. One by one the weights come off, and the "
-    "needle, trembling all day between this and that, finds the middle "
-    "and rests. Nothing more is asked. Outside, the light has gone the "
-    "colour of honey, and the room is quiet."
+    "The scale does not hurry. One by one, the weights are lifted off. "
+    "The needle, which trembled all day, finds the middle of the dial "
+    "and rests there. Nothing more is asked of it. Through the window "
+    "the light has gone the colour of honey, and the room is quiet."
 )
 
 
